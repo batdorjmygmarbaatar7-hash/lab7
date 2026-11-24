@@ -1,0 +1,11 @@
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0100    458   0    458   0      0 490.9k      0                              0100    458   0    458   0      0 463.0k      0                              0100    458   0    458   0      0 435.9k      0                              0
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Tue, 24 Nov 2026 14:56:01 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
+[{"id":3,"title":"The Pragmatic Programmer","author":"D.Thomas & A.Hunt","year":1999},{"id":4,"title":"","author":"","year":""},{"id":5,"title":"Test1","author":"A","year":"999"},{"id":6,"title":"Test2","author":"B","year":"abc"},{"id":7,"title":"Test1","author":"A","year":"2000"},{"id":8,"title":"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA","author":"Long","year":"2010"}]

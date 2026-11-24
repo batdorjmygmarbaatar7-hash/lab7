@@ -1,0 +1,24 @@
+21:55 START session 2 - Couch Potato аялалаас эхлэв
+21:58 Он багана 1,971 гэж таслалтай харагдаж байна
+22:02 Ustgah tovch darahad nom ustsan, gehdee yamar ch mesej garsangui
+22:04 Husnegted 2 mor, Niit nom: 3 - dahiad 1-eer ilvv
+22:05 Husnegted 3 mor, Niit nom: 4
+22:06 Husnegted 4 mor, Niit nom: 5
+22:07 Husnegted 5 mor, Niit nom: 6
+22:08 Hailtiin daraa ch Nom nemegdlee mesej hevere haragdaj baina
+22:14 Husnegted 6 mor, Niit nom: 7
+22:14 Saboteur aylal ruu shiljev: curl-eer buruu JSON ilgeene
+22:16 NOHOJ BICHIV - 22:03-d ajigsan: Clean Code-iig ustgasnii daraa "Nom nemegdlee" mesej garsan, ustgah uildeltei tohirohgui - BUG-01
+22:16 NOHOJ BICHIV - 22:03-d ajigsan: husnegted 1 nom, Niit nom: 2 - toologuur buruu - BUG-02
+22:16 NOHOJ BICHIV - 22:04-d ajigsan: Couch Potato - 3 talbar hooson Nemeh -> hooson nom nemegdsen, on 0, aldaanii mesej garsangui - BUG-03
+22:16 NOHOJ BICHIV - 22:05-d ajigsan: on 999 - Test1/A -> nom nemegdsen, 1000-2100 shalgahgui - BUG-04
+22:16 NOHOJ BICHIV - 22:06-d ajigsan: on abc - Test2/B -> nom nemegdsen, husnegted NaN - BUG-04-tei neg shaltgaan
+22:16 NOHOJ BICHIV - 22:07-d ajigsan: Fed-Ex - Test1/A dahin nemev on 2000 -> davhardsan nom nemegdsen - BUG-06
+22:16 NOHOJ BICHIV - 22:08-d ajigsan: hailt test1 jijig useg -> yu ch oldsongui; Test1 tom useg -> 2 nom oldov, tom/jijig YALGADAG - BUG-07
+22:16 NOHOJ BICHIV - 22:09-d ajigsan: hailt Thomas -> D.Thomas & A.Hunt oldov, zohiolchoor hailt zov
+22:16 NOHOJ BICHIV - 22:10-d ajigsan: Huuchin huvilbar link /old -> Internal Server Error - BUG-08
+22:16 NOHOJ BICHIV - 22:11-d ajigsan: Supermodel - Ustgah tovch NOGOON, ULAAN baih yostoi - BUG-09; on 1,999 gej TASLALTAI - BUG-05
+22:16 NOHOJ BICHIV - 22:13-d ajigsan: Supermodel - garchigt 120+ useg -> husnegt baruun tiish sungaj busad baganuud delgetsees garsan - BUG-10
+22:16 Saboteur: buruu JSON POST -> HTTP/1.1 200 OK {"result":"OK"}, 400 baih yostoi - BUG-11, evidence/bug-11-curl.txt
+22:16 Saad: n tushaald haalt () bichihed bash syntax error garch 8 tem dbegel hadgalagdaagui, 22:16-d nohoj bichiv
+22:58 Session 2a 22:16-22:56 tasaldsan. Margaash shine 60 min session hiine.
